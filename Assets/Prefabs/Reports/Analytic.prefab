@@ -1,0 +1,776 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1029437309253387297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 966407589497030558}
+  - component: {fileID: 6693791795121849245}
+  - component: {fileID: 7166331379768319276}
+  - component: {fileID: 4378308603759507732}
+  - component: {fileID: 2950868520572454215}
+  m_Layer: 5
+  m_Name: Name
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &966407589497030558
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029437309253387297}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8446766438902849534}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 25.735, y: -14.5}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0.5}
+--- !u!114 &6693791795121849245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029437309253387297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b42570416bdca4697b2749e5bf8c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    id: 85:425
+    formattedName: Airbus A380
+    spriteName: 
+    tags: c800000065000000
+    childIndexes: 
+    fcuInstance: {fileID: 0}
+    gameObject: {fileID: 1029437309253387297}
+    transformData:
+      anchorMin: {x: 0, y: 0}
+      anchorMax: {x: 0, y: 0}
+      anchoredPosition: {x: 0, y: 0}
+      sizeDelta: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0, w: 0}
+      localScale: {x: 0, y: 0, z: 0}
+    singleColor: {r: 1, g: 1, b: 1, a: 1}
+    spriteSize: {x: 0, y: 0}
+    size: {x: 109, y: 27}
+    position: {x: 1208, y: -1155}
+    fcuImageType: 0
+    buttonComponent: 0
+    hash: 2079747052
+    hashDataTree: "\u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B/Group 135/Airbus
+      A380\r\n    isVisible | True\r\n    Type | TEXT\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | OUTSIDE\r\n    BlendMode |
+      PASS_THROUGH\r\n    isVisible | True\r\n    Type | TEXT\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | OUTSIDE\r\n    BlendMode |
+      PASS_THROUGH\r\n    \u2014\u2014\u2014\u2014TextStyle\r\n        FontFamily
+      | Roboto Flex\r\n        FontWeight | 700\r\n        FontSize | 20\r\n       
+      TextAlignHorizontal | LEFT\r\n        TextAlignVertical | TOP\r\n    \u2014\u2014\u2014\u2014Fills\r\n       
+      IsVisible | True\r\n        Type | SOLID\r\n        Color | RGBA(1.000, 1.000,
+      1.000, 1.000)\r\n        BlendMode | NORMAL\r\n    \u2014\u2014\u2014\u2014ArcData\r\n       
+      StartingAngle | 0\r\n        EndingAngle | 0\r\n        InnerRadius | 0\r\n"
+    parentIndex: 1
+    hierarchy: "\u0420\u0435\u0439\u0441\u044B/Group 135/Airbus A380"
+    spritePath: 
+    link: 
+    humanizedTextPrefabName: TextMeshPro Roboto Flex-Bold-20-LeftTop-Black255
+    tagReason: 
+    downloadAttempsCount: 0
+    isDownloadable: 0
+    isDuplicate: 1
+    isMutual: 1
+    isEmptyMask: 0
+    isEmpty: 0
+    needDownload: 0
+    needGenerate: 0
+    forceImage: 0
+    forceContainer: 0
+    isInsideDownloadable: 0
+    insideForceImage: 0
+    hasFontAsset: 0
+--- !u!114 &7166331379768319276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029437309253387297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 2
+  m_VerticalFit: 2
+--- !u!222 &4378308603759507732
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029437309253387297}
+  m_CullTransparentMesh: 1
+--- !u!114 &2950868520572454215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029437309253387297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Airbus A380
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 98860cae8a80a9a40887b1e9f05c0ae4, type: 2}
+  m_sharedMaterial: {fileID: -7439006206724311610, guid: 98860cae8a80a9a40887b1e9f05c0ae4, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 20
+  m_fontSizeBase: 20
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: -0.42
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &7838891651259241831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6394899643660957700}
+  - component: {fileID: 320512087452693455}
+  - component: {fileID: 4553872264298834824}
+  - component: {fileID: 8929015363720261843}
+  - component: {fileID: 9205876585766844129}
+  m_Layer: 5
+  m_Name: Background
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &6394899643660957700
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7838891651259241831}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8446766438902849534}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 167.5, y: -44.5}
+  m_SizeDelta: {x: 335, y: 89}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &320512087452693455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7838891651259241831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b42570416bdca4697b2749e5bf8c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    id: 85:423
+    formattedName: Rectangle 2
+    spriteName: Rectangle 2 4x -397914871.png
+    tags: c9000000
+    childIndexes: 
+    fcuInstance: {fileID: 0}
+    gameObject: {fileID: 7838891651259241831}
+    transformData:
+      anchorMin: {x: 0, y: 0}
+      anchorMax: {x: 0, y: 0}
+      anchoredPosition: {x: 0, y: 0}
+      sizeDelta: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0, w: 0}
+      localScale: {x: 0, y: 0, z: 0}
+    singleColor: {r: 0, g: 0, b: 0, a: 0}
+    spriteSize: {x: 1340, y: 356}
+    size: {x: 335, y: 89}
+    position: {x: 1178, y: -1110}
+    fcuImageType: 1
+    buttonComponent: 0
+    hash: -397914871
+    hashDataTree: "\u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B/Group 135/Rectangle
+      2\r\n    isVisible | True\r\n    Type | RECTANGLE\r\n    GetFigmaRotationAngle
+      | 0\r\n    FillGeometry | 2108141351\r\n    StrokeWeight | 0,5\r\n    StrokeAlign
+      | INSIDE\r\n    CornerRadius | 11\r\n    BlendMode | PASS_THROUGH\r\n    Size
+      | (335.00, 89.00)\r\n    isVisible | True\r\n    Type | RECTANGLE\r\n    GetFigmaRotationAngle
+      | 0\r\n    FillGeometry | 2108141351\r\n    StrokeWeight | 0,5\r\n    StrokeAlign
+      | INSIDE\r\n    CornerRadius | 11\r\n    BlendMode | PASS_THROUGH\r\n    Size
+      | (335.00, 89.00)\r\n    \u2014\u2014\u2014\u2014Fills\r\n        IsVisible
+      | True\r\n        Type | SOLID\r\n        Color | RGBA(0.139, 0.139, 0.139,
+      1.000)\r\n        BlendMode | NORMAL\r\n    \u2014\u2014\u2014\u2014Strokes\r\n       
+      IsVisible | True\r\n        Type | SOLID\r\n        Opacity | 0,16\r\n       
+      Color | RGBA(1.000, 1.000, 1.000, 1.000)\r\n        BlendMode | NORMAL\r\n   
+      \u2014\u2014\u2014\u2014ArcData\r\n        StartingAngle | 0\r\n        EndingAngle
+      | 0\r\n        InnerRadius | 0\r\n"
+    parentIndex: 1
+    hierarchy: "\u0420\u0435\u0439\u0441\u044B/Group 135/Rectangle 2"
+    spritePath: 
+    link: 
+    humanizedTextPrefabName: 
+    tagReason: SingleImage
+    downloadAttempsCount: 0
+    isDownloadable: 0
+    isDuplicate: 1
+    isMutual: 1
+    isEmptyMask: 0
+    isEmpty: 0
+    needDownload: 0
+    needGenerate: 0
+    forceImage: 1
+    forceContainer: 0
+    isInsideDownloadable: 0
+    insideForceImage: 0
+    hasFontAsset: 0
+--- !u!222 &4553872264298834824
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7838891651259241831}
+  m_CullTransparentMesh: 1
+--- !u!114 &8929015363720261843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7838891651259241831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a693770ffec211c459d6623d2e38c256, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &9205876585766844129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7838891651259241831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 8929015363720261843}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &8545169289456400280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4192665510129479243}
+  - component: {fileID: 2002237413860018247}
+  - component: {fileID: 1281514520581898286}
+  - component: {fileID: 9030058302542824563}
+  - component: {fileID: 570630420012331764}
+  m_Layer: 5
+  m_Name: VerificationDate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4192665510129479243
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8545169289456400280}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8446766438902849534}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 23.7, y: 13.5}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0.5}
+--- !u!114 &2002237413860018247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8545169289456400280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b42570416bdca4697b2749e5bf8c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    id: 85:424
+    formattedName: Check before 23.02.24
+    spriteName: 
+    tags: c800000065000000
+    childIndexes: 
+    fcuInstance: {fileID: 0}
+    gameObject: {fileID: 8545169289456400280}
+    transformData:
+      anchorMin: {x: 0, y: 0}
+      anchorMax: {x: 0, y: 0}
+      anchoredPosition: {x: 0, y: 0}
+      sizeDelta: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0, w: 0}
+      localScale: {x: 0, y: 0, z: 0}
+    singleColor: {r: 1, g: 1, b: 1, a: 0.33}
+    spriteSize: {x: 0, y: 0}
+    size: {x: 139, y: 27}
+    position: {x: 1208, y: -1127}
+    fcuImageType: 0
+    buttonComponent: 0
+    hash: -432876490
+    hashDataTree: "\u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B/Group 135/Check
+      before 23.02.24\r\n    isVisible | True\r\n    Type | TEXT\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | OUTSIDE\r\n    BlendMode |
+      PASS_THROUGH\r\n    isVisible | True\r\n    Type | TEXT\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | OUTSIDE\r\n    BlendMode |
+      PASS_THROUGH\r\n    \u2014\u2014\u2014\u2014TextStyle\r\n        FontFamily
+      | Roboto Flex\r\n        FontWeight | 300\r\n        FontSize | 14,8012\r\n       
+      TextAlignHorizontal | LEFT\r\n        TextAlignVertical | TOP\r\n    \u2014\u2014\u2014\u2014Fills\r\n       
+      IsVisible | True\r\n        Type | SOLID\r\n        Opacity | 0,33\r\n       
+      Color | RGBA(1.000, 1.000, 1.000, 1.000)\r\n        BlendMode | NORMAL\r\n   
+      \u2014\u2014\u2014\u2014ArcData\r\n        StartingAngle | 0\r\n        EndingAngle
+      | 0\r\n        InnerRadius | 0\r\n"
+    parentIndex: 1
+    hierarchy: "\u0420\u0435\u0439\u0441\u044B/Group 135/Check before 23.02.24"
+    spritePath: 
+    link: 
+    humanizedTextPrefabName: TextMeshPro Roboto Flex-Light-14,8012-LeftTop-Black255
+    tagReason: 
+    downloadAttempsCount: 0
+    isDownloadable: 0
+    isDuplicate: 1
+    isMutual: 0
+    isEmptyMask: 0
+    isEmpty: 0
+    needDownload: 0
+    needGenerate: 0
+    forceImage: 0
+    forceContainer: 0
+    isInsideDownloadable: 0
+    insideForceImage: 0
+    hasFontAsset: 0
+--- !u!114 &1281514520581898286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8545169289456400280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalFit: 2
+  m_VerticalFit: 2
+--- !u!222 &9030058302542824563
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8545169289456400280}
+  m_CullTransparentMesh: 1
+--- !u!114 &570630420012331764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8545169289456400280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Report from the 24.05.24
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8481506aced50464fbf8152775376c9c, type: 2}
+  m_sharedMaterial: {fileID: 4077423133637663393, guid: 8481506aced50464fbf8152775376c9c, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 1426063359
+  m_fontColor: {r: 1, g: 1, b: 1, a: 0.33}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 14.801205
+  m_fontSizeBase: 14.801205
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: -0.42
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!1 &8765425234185331765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8446766438902849534}
+  - component: {fileID: 1356796443978935374}
+  - component: {fileID: 7629225320105953260}
+  m_Layer: 5
+  m_Name: Analytic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8446766438902849534
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8765425234185331765}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6394899643660957700}
+  - {fileID: 4192665510129479243}
+  - {fileID: 966407589497030558}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0.5, y: -411.5}
+  m_SizeDelta: {x: 335, y: 89}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1356796443978935374
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8765425234185331765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18b42570416bdca4697b2749e5bf8c5c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    id: 85:422
+    formattedName: Group 108
+    spriteName: 
+    tags: 01000000
+    childIndexes: 1c0000001d0000001e000000
+    fcuInstance: {fileID: 0}
+    gameObject: {fileID: 8765425234185331765}
+    transformData:
+      anchorMin: {x: 0, y: 0}
+      anchorMax: {x: 0, y: 0}
+      anchoredPosition: {x: 0, y: 0}
+      sizeDelta: {x: 0, y: 0, z: 0}
+      localRotation: {x: 0, y: 0, z: 0, w: 0}
+      localScale: {x: 0, y: 0, z: 0}
+    singleColor: {r: 0, g: 0, b: 0, a: 0}
+    spriteSize: {x: 0, y: 0}
+    size: {x: 335, y: 89}
+    position: {x: 1633, y: -926}
+    fcuImageType: 0
+    buttonComponent: 0
+    hash: -228175371
+    hashDataTree: "\u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B \u043F\u0443\u0441\u0442\u043E\u0439/Group
+      108\r\n    isVisible | True\r\n    Type | GROUP\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | INSIDE\r\n    CornerRadius
+      | 11\r\n    BlendMode | PASS_THROUGH\r\n    ClipsContent | False\r\n    Size
+      | (335.00, 89.00)\r\n    isVisible | True\r\n    Type | GROUP\r\n    GetFigmaRotationAngle
+      | 0\r\n    StrokeWeight | 1\r\n    StrokeAlign | INSIDE\r\n    CornerRadius
+      | 11\r\n    BlendMode | PASS_THROUGH\r\n    ClipsContent | False\r\n    Size
+      | (335.00, 89.00)\r\n    \u2014\u2014\u2014\u2014ArcData\r\n        StartingAngle
+      | 0\r\n        EndingAngle | 0\r\n        InnerRadius | 0\r\n\u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B
+      \u043F\u0443\u0441\u0442\u043E\u0439/Group 108/Rectangle 75\r\n    isVisible
+      | True\r\n    Type | RECTANGLE\r\n    GetFigmaRotationAngle | 0\r\n    FillGeometry
+      | 2108141351\r\n    StrokeWeight | 0,5\r\n    StrokeAlign | INSIDE\r\n    CornerRadius
+      | 11\r\n    BlendMode | PASS_THROUGH\r\n    Size | (335.00, 89.00)\r\n    isVisible
+      | True\r\n    Type | RECTANGLE\r\n    GetFigmaRotationAngle | 0\r\n    FillGeometry
+      | 2108141351\r\n    StrokeWeight | 0,5\r\n    StrokeAlign | INSIDE\r\n    CornerRadius
+      | 11\r\n    BlendMode | PASS_THROUGH\r\n    Size | (335.00, 89.00)\r\n    \u2014\u2014\u2014\u2014Fills\r\n       
+      IsVisible | True\r\n        Type | SOLID\r\n        Color | RGBA(0.139, 0.139,
+      0.139, 1.000)\r\n        BlendMode | NORMAL\r\n    \u2014\u2014\u2014\u2014Strokes\r\n       
+      IsVisible | True\r\n        Type | SOLID\r\n        Opacity | 0,16\r\n       
+      Color | RGBA(1.000, 1.000, 1.000, 1.000)\r\n        BlendMode | NORMAL\r\n   
+      \u2014\u2014\u2014\u2014ArcData\r\n        StartingAngle | 0\r\n        EndingAngle
+      | 0\r\n        InnerRadius | 0\r\n    \u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B
+      \u043F\u0443\u0441\u0442\u043E\u0439/Group 108/Report from the 24.05.24\r\n       
+      isVisible | True\r\n        Type | TEXT\r\n        GetFigmaRotationAngle |
+      0\r\n        StrokeWeight | 1\r\n        StrokeAlign | OUTSIDE\r\n        BlendMode
+      | PASS_THROUGH\r\n        isVisible | True\r\n        Type | TEXT\r\n       
+      GetFigmaRotationAngle | 0\r\n        StrokeWeight | 1\r\n        StrokeAlign
+      | OUTSIDE\r\n        BlendMode | PASS_THROUGH\r\n        \u2014\u2014\u2014\u2014TextStyle\r\n           
+      FontFamily | Roboto Flex\r\n            FontWeight | 300\r\n            FontSize
+      | 14,8012\r\n            TextAlignHorizontal | LEFT\r\n            TextAlignVertical
+      | TOP\r\n        \u2014\u2014\u2014\u2014Fills\r\n            IsVisible | True\r\n           
+      Type | SOLID\r\n            Opacity | 0,33\r\n            Color | RGBA(1.000,
+      1.000, 1.000, 1.000)\r\n            BlendMode | NORMAL\r\n        \u2014\u2014\u2014\u2014ArcData\r\n           
+      StartingAngle | 0\r\n            EndingAngle | 0\r\n            InnerRadius
+      | 0\r\n        \u2014\u2014\u2014\u2014\u0420\u0435\u0439\u0441\u044B \u043F\u0443\u0441\u0442\u043E\u0439/Group
+      108/Airbus A320\r\n            isVisible | True\r\n            Type | TEXT\r\n           
+      GetFigmaRotationAngle | 0\r\n            StrokeWeight | 1\r\n            StrokeAlign
+      | OUTSIDE\r\n            BlendMode | PASS_THROUGH\r\n            isVisible
+      | True\r\n            Type | TEXT\r\n            GetFigmaRotationAngle | 0\r\n           
+      StrokeWeight | 1\r\n            StrokeAlign | OUTSIDE\r\n            BlendMode
+      | PASS_THROUGH\r\n            \u2014\u2014\u2014\u2014TextStyle\r\n               
+      FontFamily | Roboto Flex\r\n                FontWeight | 700\r\n               
+      FontSize | 20\r\n                TextAlignHorizontal | LEFT\r\n               
+      TextAlignVertical | TOP\r\n            \u2014\u2014\u2014\u2014Fills\r\n               
+      IsVisible | True\r\n                Type | SOLID\r\n                Color |
+      RGBA(1.000, 1.000, 1.000, 1.000)\r\n                BlendMode | NORMAL\r\n           
+      \u2014\u2014\u2014\u2014ArcData\r\n                StartingAngle | 0\r\n               
+      EndingAngle | 0\r\n                InnerRadius | 0\r\n"
+    parentIndex: 0
+    hierarchy: "\u0420\u0435\u0439\u0441\u044B \u043F\u0443\u0441\u0442\u043E\u0439/Group
+      108"
+    spritePath: 
+    link: 
+    humanizedTextPrefabName: 
+    tagReason: children not empty
+    downloadAttempsCount: 0
+    isDownloadable: 0
+    isDuplicate: 1
+    isMutual: 0
+    isEmptyMask: 0
+    isEmpty: 0
+    needDownload: 0
+    needGenerate: 0
+    forceImage: 0
+    forceContainer: 0
+    isInsideDownloadable: 0
+    insideForceImage: 0
+    hasFontAsset: 0
+--- !u!114 &7629225320105953260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8765425234185331765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f266350be9a87904ea7040e1f846e760, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _nameText: {fileID: 2950868520572454215}
+  _verificationDateText: {fileID: 570630420012331764}
+  _openButton: {fileID: 9205876585766844129}
